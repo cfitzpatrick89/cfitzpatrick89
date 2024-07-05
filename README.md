@@ -1,6 +1,5 @@
-## Hi there 👋
+## 
 
-About Me
 I am a Flow Cytometry Specialist with a passion for machine learning and data science, particularly in biology. I am currently finishing my Master's in Data Science from the University of San Diego.
 
 Interests
