@@ -14,6 +14,6 @@ Computational Skills:
 
 Programming Languages: Python, R
 
-Data Analysis: Pandas, NumPy, Scikit-Learn, FlowJo, FCS Express, IDEAS for Imagestream
+Data Analysis: Pandas, NumPy, Scikit-Learn, FlowJo, SQL, FCS Express, IDEAS for Imagestream
 
 Deep Learning: TensorFlow, Keras, PyTorch, OpenCV
