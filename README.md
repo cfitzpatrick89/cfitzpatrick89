@@ -12,8 +12,8 @@ Deep Learning: Exploring deep learning methods for enhancing cytometry analysis.
 
 Computational Skills:
 
-Programming Languages: Python, R
+Programming Languages: Python, R, SQL
 
-Data Analysis: Pandas, NumPy, Scikit-Learn, FlowJo, SQL, FCS Express, IDEAS for Imagestream
+Data Analysis: Pandas, NumPy, Scikit-Learn, FlowJo, FCS Express, IDEAS for Imagestream, Tableau
 
 Deep Learning: TensorFlow, Keras, PyTorch, OpenCV
