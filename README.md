@@ -5,11 +5,15 @@ I am a Flow Cytometry Specialist with a passion for machine learning and data sc
 Interests
 
 Flow Cytometry: Advanced techniques and applications in flow and imaging cytometry.
+
 Machine Learning: Applying ML algorithms to cytometry data.
+
 Deep Learning: Exploring deep learning methods for enhancing cytometry analysis.
 
 Computational Skills
 
 Programming Languages: Python, R
+
 Data Analysis: Pandas, NumPy, Scikit-Learn, FlowJo, FCS Express, IDEAS for Imagestream
+
 Deep Learning: TensorFlow, Keras, PyTorch, OpenCV
